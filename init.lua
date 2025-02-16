@@ -1,3 +1,5 @@
+vim.cmd "let g:python_host_prog = '$HOME/.pyenv/versions/neovim/bin/python'"
+vim.cmd "let g:python3_host_prog = '$HOME/.pyenv/versions/neovim/bin/python'"
 --[[
 
 =====================================================================
